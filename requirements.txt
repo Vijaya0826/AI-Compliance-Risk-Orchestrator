@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+pymongo
+websockets
+openai
+pillow
+pytesseract
+pytest

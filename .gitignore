@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+sdist/
+*.egg-info/
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written into a _MEIPASS folder, but if you
+#  call pyinstaller on a frozen application, the base_prefix attribute
+#  will be set and the MEIPASS folder will not be used.
+_MEIPASS/
+_MEIPASS2/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+venv/
+*.log
